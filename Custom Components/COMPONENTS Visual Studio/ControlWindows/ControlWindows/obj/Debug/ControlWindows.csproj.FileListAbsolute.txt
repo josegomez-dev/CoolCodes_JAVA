@@ -1,0 +1,7 @@
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csprojResolveAssemblyReference.cache
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.Cache
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb

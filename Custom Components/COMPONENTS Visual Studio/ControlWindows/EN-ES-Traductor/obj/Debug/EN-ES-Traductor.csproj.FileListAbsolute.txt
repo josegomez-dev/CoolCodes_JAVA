@@ -1,0 +1,7 @@
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\EN-ES-Traductor\bin\Debug\EN-ES-Traductor.dll
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\EN-ES-Traductor\bin\Debug\EN-ES-Traductor.pdb
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\EN-ES-Traductor\obj\Debug\EN-ES-Traductor.csprojResolveAssemblyReference.cache
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\EN-ES-Traductor\obj\Debug\EN_ES_Traductor.UserControl1.resources
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\EN-ES-Traductor\obj\Debug\EN-ES-Traductor.csproj.GenerateResource.Cache
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\EN-ES-Traductor\obj\Debug\EN-ES-Traductor.dll
+c:\users\alego\documents\visual studio 2015\Projects\ControlWindows\EN-ES-Traductor\obj\Debug\EN-ES-Traductor.pdb

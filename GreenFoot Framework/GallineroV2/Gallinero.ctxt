@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Gallinero
+comment0.text=\r\n\ Clase\ Gallinero\r\n\ \r\n\ @author\ Jose\ Alejandro\ Gomez\ Castro\r\n\ @author\ Jose\ Ramirez\ Ocampo\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=Gallinero()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gallinero.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ act\ del\ objeto\ tipo\ Gallinero\ [extends\ World]\r\n
+comment3.params=
+comment3.target=void\ controls()
+comment4.params=pgallina
+comment4.target=void\ setGallina(Gallina)
+numComments=5

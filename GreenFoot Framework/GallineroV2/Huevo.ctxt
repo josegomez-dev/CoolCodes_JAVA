@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Huevo
+comment0.text=\r\n\ Clase\ Huevo\r\n\ \r\n\ @author\ Jose\ Alejandro\ Gomez\ Castro\r\n\ @author\ Jose\ Ramirez\ Ocampo\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=Huevo()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Huevo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=java.lang.String\ comer()
+comment3.params=
+comment3.target=void\ emitirSonido()
+comment4.params=
+comment4.target=void\ dormir()
+comment5.params=pmundo
+comment5.target=void\ ponerHuevo(greenfoot.World)
+comment6.params=pgallina
+comment6.target=void\ empollar(Gallina)
+comment7.params=pgallina
+comment7.target=void\ mover(Gallina)
+numComments=8

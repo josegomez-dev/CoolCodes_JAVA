@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:c="http://xmlns.jcp.org/jsp/jstl/core">
+    <h:head>
+        <title>Facelet Title</title>
+        <h:outputStylesheet library="css" name="style.css" />
+    </h:head>
+    <h:body>
+        <center>
+            <h1> Form JSP  </h1>
+            
+            <h:form>
+                <h:panelGrid columns="3" columnClasses=",,red-text">
+                    
+                    <h:outputLabel value="Cedula: " for="cedula"></h:outputLabel>
+                    <h:inputText id="cedula" required="true" requiredMessage="Espacio requerido" value="#{astrofreakazoid.cedula}"></h:inputText>
+                    <h:message for="cedula"></h:message>
+                    
+                    <h:outputLabel value="Nombre: " for="nombre"></h:outputLabel>
+                    <h:inputText id="nombre" required="true" value="#{astrofreakazoid.nombre}"></h:inputText>
+                    <h:message for="nombre"></h:message>
+                    
+                    <h:outputLabel value="Edad: " for="edad"></h:outputLabel>
+                    <h:inputText id="edad" required="true" size="2" maxlength="2" value="#{astrofreakazoid.edad}"></h:inputText>
+                    <h:message for="edad"></h:message>
+                    
+                    <h:outputLabel value="Correo: " for="correo"></h:outputLabel>
+                    <h:inputText id="correo" required="true" value="#{astrofreakazoid.correo}"></h:inputText>
+                    <h:message for="correo"></h:message>
+                    
+                    <h:outputLabel value="Ocupacion: " for="ocupacion"></h:outputLabel>
+                    <h:selectOneMenu id="ocupacion" label="Ocupacion: " value="#{astrofreakazoid.ocupacion}">
+                        <f:selectItem itemLabel="" itemValue="" />
+                        <f:selectItem itemLabel="Software Developer" itemValue="SD" />
+                        <f:selectItem itemLabel="Web Developer" itemValue="WD" />
+                        <f:selectItem itemLabel="Graphic Designer" itemValue="GD" />
+                        <f:selectItem itemLabel="Troll" itemValue="T" />
+                        <f:selectItem itemLabel="Pirate Roberts" itemValue="PR" />
+                    </h:selectOneMenu>
+                    <h:message for="ocupacion"></h:message>
+                    
+                    <h:outputLabel value="Habilitado: " for="habilitado"></h:outputLabel>
+                    <h:selectBooleanCheckbox id="habilitado" value="#{astrofreakazoid.habilitado}"/>
+                    <h:message for="habilitado"></h:message>
+                    
+                    <h:panelGroup />
+                    <h:commandButton id="registrar" value="REGISTRAR" action="regis" />
+                    
+                </h:panelGrid>
+            </h:form>
+        </center>
+    </h:body>
+</html>
+

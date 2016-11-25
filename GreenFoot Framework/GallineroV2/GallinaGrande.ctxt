@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GallinaGrande
+comment0.text=\r\n\ Clase\ GallinaGrande\r\n\ \r\n\ @author\ Jose\ Alejandro\ Gomez\ Castro\r\n\ @author\ Jose\ Ramirez\ Ocampo\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=GallinaGrande()
+comment2.params=
+comment2.target=java.lang.String\ comer()
+comment3.params=
+comment3.target=void\ emitirSonido()
+comment4.params=
+comment4.target=void\ dormir()
+comment5.params=pmundo
+comment5.target=void\ ponerHuevo(greenfoot.World)
+comment6.params=pgallina
+comment6.target=void\ empollar(Gallina)
+comment7.params=pgallina
+comment7.target=void\ mover(Gallina)
+numComments=8
